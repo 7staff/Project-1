@@ -10,8 +10,12 @@ s = "Python was used"
 print s
 ```
 1. don't eat
-1. don't breathe  
+1. don't breathe
+
+
 I like my coffee **Bold** and *French* ~~no cream~~
+
+
   * milk
   * eggs
   * ham 
