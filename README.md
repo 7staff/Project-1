@@ -19,3 +19,8 @@ I like my coffee **Bold** and *French* ~~no cream~~
   * milk
   * eggs
   * ham 
+
+|cat|cat food|
+  |:----|:----|
+  |Tabby|Meow mix|
+  |Calico|Treats|
